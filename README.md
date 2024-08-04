@@ -63,3 +63,7 @@ And... these are the former. Good for an occasion, to impress someone, or to
 treat yourself with an all-day project.
 
 * [Salmon Wellington](fancy-meals/salmon-wellington.md)
+
+### Desserts
+
+* [Extra-Spicy Gingersnaps](dessert/gingersnaps.md)
