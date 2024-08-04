@@ -13,6 +13,11 @@ than you want to blend into a little sauce. I usually use a high-walled quarter
 sheet pan (like a brownie pan), high-walled oven-safe skillet, or enameled
 cast-iron Dutch oven or braiser.
 
+Note: **Your sauce will be orange. This is normal.** This is what happens when
+you blend tomatoes without additives to preserve the color. It might be
+oxidization, it might be air introduced into the sauce, I don't know. It will
+look weird, but it will taste great.
+
 ## Ingredients
 
 * Tomatoes, enough to fill the floor of your pan in a single layer. (Romas
@@ -23,7 +28,7 @@ cast-iron Dutch oven or braiser.
   mushrooms
 * Garlic to taste (my taste is half a head), peeled but whole
 * Olive oil
-* Salt
+* Salt, pepper, red pepper, etc. to taste
 * (optional) ground or chopped meat or sausage, about 1lb
 
 ## Procedure
@@ -57,8 +62,26 @@ cast-iron Dutch oven or braiser.
    the blender pitcher, then ladle or pour the liquid from the bottom of the
    pan into the blender as well. Run it til it's the amount of chunky/smooth
    you think will be good with your pasta shape.
+1. Now is the time to taste and adjust the seasoning. You will probably want
+   more salt, maybe a bit of red pepper... Fresh herbs can go in at this time,
+   too.
 1. Optional: If you want to add ground meat, add it to your roasting pan and
    break it up now. Pour the sauce on top, cover the pan, and put it back into
    the oven for another half hour or so.
 1. Serve the blended (or blended and re-braised) sauce with your favorite
    pasta. Since it's pretty smooth, I like it with fusilli or penne.
+
+## Tips
+
+* You can pick and choose which parts you want to be blended and which parts
+  you don't. If you want visible mushrooms, for example, either pick around
+  them when adding to the blender, or pull them out before you hit the
+  immersion blender.
+* This recipe is a canvas; play with it, add and remove parts, come up with a
+  lazy pasta sauce you love.
+* The immersion blender will probably make a chunkier sauce than the regular
+  blender; you can pulse the regular blender to keep it coarser if you want
+  something a little rustic.
+* A couple splashes of the water you're cooking the pasta in, close to when
+  they're done, will improve the mouthfeel of the sauce and help it bind
+  together a little better.
