@@ -15,7 +15,7 @@ all together, swap out the whisk for the flat beater attachment.
 
 ## Ingredients
 
-* 3/4 cups of butter (1.5 sticks), room temperature
+* 3/4 cups of unsalted butter (1.5 sticks), room temperature
 * 2 cups white sugar (or cane sugar)
 * 2 eggs, beaten
 * 1/2 cup blackstrap molasses
