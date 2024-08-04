@@ -39,3 +39,20 @@ recipes and what the dough should look like, how to age them, how to knead,
 how to bake, everything. Mostly baking lessons, with a few recipes towards the
 end, the first half is the really valuable bit, but I've made a few of the
 recipes as well.
+
+## Index
+
+(Hopefully I keep this up-to-date okay...)
+
+### Breakfast
+
+* [Grab and Go Overnight Oats](breakfast/overnight-oats.md)
+* [Fluffy Scrambled Eggs](breakfast/fluffy-eggs.md)
+
+### Lazy Meals
+
+Sometimes you want to spend all day cooking, and sometimes you want minimum
+effort to get something out either faster or with less effort than it takes to
+work through DoorDash. These are the latter.
+
+* [Oven-Roasted Tomato Sauce](lazy-meals/roasted-tomato-sauce.md)
