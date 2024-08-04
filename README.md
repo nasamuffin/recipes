@@ -56,6 +56,7 @@ effort to get something out either faster or with less effort than it takes to
 work through DoorDash. These are the latter.
 
 * [Oven-Roasted Tomato Sauce](lazy-meals/roasted-tomato-sauce.md)
+* [Pasta Bake](lazy-meals/pasta-bake.md)
 
 ### Fancy Meals
 
