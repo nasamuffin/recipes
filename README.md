@@ -56,3 +56,10 @@ effort to get something out either faster or with less effort than it takes to
 work through DoorDash. These are the latter.
 
 * [Oven-Roasted Tomato Sauce](lazy-meals/roasted-tomato-sauce.md)
+
+### Fancy Meals
+
+And... these are the former. Good for an occasion, to impress someone, or to
+treat yourself with an all-day project.
+
+* [Salmon Wellington](fancy-meals/salmon-wellington.md)
